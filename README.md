@@ -3,10 +3,15 @@ A simple and efficient Google Chrome extension that allows users to quickly look
 
 ## Features ✨
 Quick Word Lookup: Instantly fetches the meaning of any word entered in the extension.
+
 Pronunciation Support: Includes audio playback for word pronunciation.
+
 Easy-to-Use Interface: Simple, user-friendly design for quick access.
+
 API Integration: Retrieves accurate definitions, synonyms, and pronunciation data via a Dictionary API.
+
 Minimalist Design: Clean and distraction-free layout with responsive styling.
+
 One-Click Access: Accessible directly from the Chrome toolbar.
 
 ## Technologies Used 💻
