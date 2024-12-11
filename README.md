@@ -43,5 +43,7 @@ You will get the meaning displayed on the little tooltip appearing near the sele
 
 ## Future Enhancements 🔧
 Include a history of searched words.
+
 Display synonyms, antonyms, and additional example sentences.
+
 Add support for multiple languages.
