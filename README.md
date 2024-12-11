@@ -16,8 +16,11 @@ One-Click Access: Accessible directly from the Chrome toolbar.
 
 ## Technologies Used 💻
 HTML: Provides the structure of the popup window.
+
 CSS: Adds styling for a clean and responsive design.
+
 JavaScript: Handles API requests, processes user input, and dynamically updates the UI.
+
 Dictionary API: Fetches word meanings, synonyms, and pronunciation audio.
 
 ## How to Use 🚀
