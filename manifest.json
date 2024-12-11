@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Word Meaning Finder",
+    "version": "0.0.1",
+    "description": "Finds the meaning of any word you select on a webpage.",
+    "permissions": ["contextMenus", "activeTab", "scripting"],
+    "background": {
+      "service_worker": "script.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Word Meaning Finder"
+    },
+    "icons": {
+      "16": "logo1.png",
+      "48": "logo1.png",
+      "128": "logo1.png"
+    }
+  }
+  
